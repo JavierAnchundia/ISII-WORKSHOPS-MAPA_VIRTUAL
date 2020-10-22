@@ -8,6 +8,8 @@ public class CarInsurance {
 	protected PremiumCalculation premiumCalculation;
 	protected CarInsurance me;
 	protected int valorPagar;
+	protected Boolean license;
+	protected Policies policies;
 	
 	private CarInsurance() {
 		
@@ -20,6 +22,7 @@ public class CarInsurance {
 		me.setMarital_status(marital_status);
 		premiumCalculation = new PremiumCalculation();
 		valorPagar = premiumCalculation.calcularPremio(me);
+		
 	}
 	
 
