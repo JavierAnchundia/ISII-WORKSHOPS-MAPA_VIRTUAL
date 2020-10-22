@@ -26,14 +26,7 @@ public class CarInsurance {
 	}
 	
 	
-	public int validardatos(Boolean police, String sex, Boolean marital_status) {
-		if(police && (sex == "M" || sex == "F") && (marital_status || !marital_status)) {
-			return 1;
-		}
-		else {
-			return -1;
-		}
-	}
+	
 	public int getAge() {
 		return age;
 	}
