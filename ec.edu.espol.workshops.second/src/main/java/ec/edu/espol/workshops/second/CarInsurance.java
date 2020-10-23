@@ -5,27 +5,20 @@ public class CarInsurance {
 	protected int age;
 	protected String sex;
 	protected Boolean marital_status;
-	protected PremiumCalculation premiumCalculation;
-	protected CarInsurance me;
-	protected int valorPagar;
 	protected Boolean license;
-	protected Policies policies;
+	final int BASE_PREMIUN = 500;
 	
-	private CarInsurance() {
+	public Boolean getLicense() {
+		return license;
+	}
+
+	public void setLicense(Boolean license) {
+		this.license = license;
+	}
+
+	public CarInsurance() {
 		
 	}
-	
-	public CarInsurance(int age, String sex, Boolean marital_status) {
-		me = new CarInsurance();
-		me.setAge(age);
-		me.setSex(sex);
-		me.setMarital_status(marital_status);
-		premiumCalculation = new PremiumCalculation();
-		valorPagar = premiumCalculation.calcularPremio(me);
-		
-	}
-	
-	
 	
 	public int getAge() {
 		return age;
@@ -55,4 +48,5 @@ public class CarInsurance {
 		return BASE_PREMIUN;
 	}
 
+	
 }	

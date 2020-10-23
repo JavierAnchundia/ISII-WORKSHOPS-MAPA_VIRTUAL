@@ -2,18 +2,16 @@ package ec.edu.espol.workshops.second;
 
 public class Policies {
 
-	protected Boolean validCustomer(CarInsurance customer) {
+	public Policies(){
 		
-		if(customer.age>80 || !customer.license) {return false;}
-		return true;
 	}
-	
-	protected int validardatos(Boolean police, String sex, Boolean marital_status) {
-		if(police && (sex == "M" || sex == "F") && (marital_status || !marital_status)) {
-			return 1;
+	public int validCustomer(CarInsurance customer, Integer valor) {
+		
+		if(customer.getAge() >80 || !customer.getLicense() || valor == null) {
+			return -1;
 		}
 		else {
-			return -1;
+			return valor;
 		}
 	}
 }

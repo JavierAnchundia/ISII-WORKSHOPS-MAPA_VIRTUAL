@@ -2,25 +2,29 @@ package ec.edu.espol.workshops.second;
  
 public class PremiumCalculation {
 
-	static final int BASE_PREMIUM = 500;
+//	static final int BASE_PREMIUM = 500;
 	
 	
 	public PremiumCalculation() {
 		
 	}
-	static public int calcularPremio (CarInsurance customer) {
+	public Integer calcularPremio (CarInsurance customer) {
 		
-		int montoPagar = BASE_PREMIUM;
-		if(customer.sex.equals("M") && !customer.marital_status && customer.age<25) {
+		Integer montoPagar = customer.getBASE_PREMIUN();
+		
+		if(customer.getSex().equals("M") && !customer.getMarital_status() && customer.getAge()<25) {
 			return montoPagar + 1500;
 		}
 		
-		if(customer.sex.equals("F") || customer.marital_status) {
+		else if(customer.getSex().equals("F") || customer.getMarital_status()) {
 			montoPagar = montoPagar - 200;
 		}	
 		
-		if(customer.age >= 45 && customer.age <=65 ) {
+		else if(customer.getAge() >= 45 && customer.getAge() <= 65 ) {
 			montoPagar = montoPagar - 100;
+		}
+		else {
+			montoPagar = null;
 		}
 		return montoPagar;
 	}
