@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in, "UTF-8");
 		System.out.println("Ingrese el sexo M -> Masculino, F -> Femenino: ");
 		String sex = sc.nextLine();
 		
@@ -30,6 +30,7 @@ public class Main {
 		Integer calculoMonto = premiumCalc.calcularPremio(car);
 
 		System.out.println(policies.validCustomer(car, calculoMonto));
+		sc.close();
 
 	}
 
