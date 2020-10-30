@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2020-10-29T19:31:58.396">
+<file name="src/main/java/ec/edu/espol/workshops/second/CarInsurance.java">
+<violation beginline="3" endline="52" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="52" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="52" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'CarInsurance' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=9, WMC=10)
+</violation>
+<violation beginline="3" endline="52" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'CarInsurance' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=9, WMC=10)
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="FinalFieldCouldBeStatic" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#finalfieldcouldbestatic" priority="3">
+FinalFieldCouldBeStatic: This final field could be made static
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="FinalFieldCouldBeStatic" ruleset="Design" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#finalfieldcouldbestatic" priority="3">
+FinalFieldCouldBeStatic: This final field could be made static
+</violation>
+<violation beginline="19" endline="21" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="19" endline="21" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="19" endline="21" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="19" endline="21" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java">
+<violation beginline="7" endline="33" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="7" endline="33" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="15" endline="18" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'pw' (lines '15'-'18').
+</violation>
+<violation beginline="15" endline="18" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'pw' (lines '15'-'18').
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="AvoidCatchingGenericException" ruleset="Design" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#avoidcatchinggenericexception" priority="3">
+AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="AvoidCatchingGenericException" ruleset="Design" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#avoidcatchinggenericexception" priority="3">
+AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+</violation>
+<violation beginline="25" endline="27" begincolumn="0" endcolumn="0" rule="EmptyCatchBlock" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_apex_errorprone.html#emptycatchblock" priority="3">
+EmptyCatchBlock: Avoid empty catch blocks
+</violation>
+<violation beginline="25" endline="27" begincolumn="0" endcolumn="0" rule="EmptyCatchBlock" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="CustomRecordFormatter" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_apex_errorprone.html#emptycatchblock" priority="3">
+EmptyCatchBlock: Avoid empty catch blocks
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/second/Main.java">
+<violation beginline="6" endline="47" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="6" endline="47" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="6" endline="47" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="6" endline="47" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="8" endline="45" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="45" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="43" endline="43" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="43" endline="43" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/second/Policies.java">
+<violation beginline="3" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="5" endline="7" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="8" endline="16" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="16" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="Policies" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java">
+<violation beginline="3" endline="31" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="31" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="8" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="10" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="8" endline="10" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="11" endline="30" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="11" endline="30" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="13" endline="27" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'montoPagar' (lines '13'-'27').
+</violation>
+<violation beginline="13" endline="27" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'montoPagar' (lines '13'-'27').
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="15" endline="15" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#nullassignment" priority="3">
+NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Error Prone" package="ec.edu.espol.workshops.second" class="PremiumCalculation" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_errorprone.html#nullassignment" priority="3">
+NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+</file>
+</pmd>

@@ -1,0 +1,415 @@
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m3:52[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m3:52[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m3:52[0m
+[0;32m    rule: [0mDataClass
+[0;32m    msg:  [0mDataClass: The class 'CarInsurance' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=9, WMC=10)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m3:52[0m
+[0;32m    rule: [0mDataClass
+[0;32m    msg:  [0mDataClass: The class 'CarInsurance' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=9, WMC=10)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m5:5[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m5:5[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m6:6[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m6:6[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m7:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m7:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m8:8[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m8:8[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m9:9[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m9:9[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Field comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m9:9[0m
+[0;32m    rule: [0mFinalFieldCouldBeStatic
+[0;32m    msg:  [0mFinalFieldCouldBeStatic: This final field could be made static
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m9:9[0m
+[0;32m    rule: [0mFinalFieldCouldBeStatic
+[0;32m    msg:  [0mFinalFieldCouldBeStatic: This final field could be made static
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m19:21[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m19:21[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m19:21[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CarInsurance.java[0m:[0;36m19:21[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m7:33[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m7:33[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m15:18[0m
+[0;32m    rule: [0mDataflowAnomalyAnalysis
+[0;32m    msg:  [0mDataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'pw' (lines '15'-'18').
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m15:18[0m
+[0;32m    rule: [0mDataflowAnomalyAnalysis
+[0;32m    msg:  [0mDataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'pw' (lines '15'-'18').
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m25:25[0m
+[0;32m    rule: [0mAvoidCatchingGenericException
+[0;32m    msg:  [0mAvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m25:25[0m
+[0;32m    rule: [0mAvoidCatchingGenericException
+[0;32m    msg:  [0mAvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m25:27[0m
+[0;32m    rule: [0mEmptyCatchBlock
+[0;32m    msg:  [0mEmptyCatchBlock: Avoid empty catch blocks
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/CustomRecordFormatter.java[0m:[0;36m25:27[0m
+[0;32m    rule: [0mEmptyCatchBlock
+[0;32m    msg:  [0mEmptyCatchBlock: Avoid empty catch blocks
+[0;32m    code: [0mnull
+
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m6:47[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m6:47[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m6:47[0m
+[0;32m    rule: [0mUseUtilityClass
+[0;32m    msg:  [0mUseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m6:47[0m
+[0;32m    rule: [0mUseUtilityClass
+[0;32m    msg:  [0mUseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m8:45[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m8:45[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m16:16[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m16:16[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m18:18[0m
+[0;32m    rule: [0mCloseResource
+[0;32m    msg:  [0mCloseResource: Ensure that resources like this InputStream object are closed after use
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m18:18[0m
+[0;32m    rule: [0mCloseResource
+[0;32m    msg:  [0mCloseResource: Ensure that resources like this InputStream object are closed after use
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m22:22[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m22:22[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m25:25[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m25:25[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m28:28[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m28:28[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m43:43[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Main.java[0m:[0;36m43:43[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+[0;32m    code: [0mnull
+
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m3:17[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m3:17[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m5:7[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m8:16[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/Policies.java[0m:[0;36m8:16[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[1;33m*[0m file: [1;37msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m3:31[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m3:31[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Class comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m8:10[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m8:10[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m8:10[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m8:10[0m
+[0;32m    rule: [0mUncommentedEmptyConstructor
+[0;32m    msg:  [0mUncommentedEmptyConstructor: Document empty constructor
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m11:30[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m11:30[0m
+[0;32m    rule: [0mCommentRequired
+[0;32m    msg:  [0mCommentRequired: Public method and constructor comments are required
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m13:27[0m
+[0;32m    rule: [0mDataflowAnomalyAnalysis
+[0;32m    msg:  [0mDataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'montoPagar' (lines '13'-'27').
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m13:27[0m
+[0;32m    rule: [0mDataflowAnomalyAnalysis
+[0;32m    msg:  [0mDataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'montoPagar' (lines '13'-'27').
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLiteralsFirstInComparisons
+[0;32m    msg:  [0mLiteralsFirstInComparisons: Position literals first in String comparisons
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m15:15[0m
+[0;32m    rule: [0mLiteralsFirstInComparisons
+[0;32m    msg:  [0mLiteralsFirstInComparisons: Position literals first in String comparisons
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLawOfDemeter
+[0;32m    msg:  [0mLawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLiteralsFirstInComparisons
+[0;32m    msg:  [0mLiteralsFirstInComparisons: Position literals first in String comparisons
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m19:19[0m
+[0;32m    rule: [0mLiteralsFirstInComparisons
+[0;32m    msg:  [0mLiteralsFirstInComparisons: Position literals first in String comparisons
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m27:27[0m
+[0;32m    rule: [0mNullAssignment
+[0;32m    msg:  [0mNullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+[0;32m    code: [0mnull
+
+[0;32m    src:  [0;36msrc/main/java/ec/edu/espol/workshops/second/PremiumCalculation.java[0m:[0;36m27:27[0m
+[0;32m    rule: [0mNullAssignment
+[0;32m    msg:  [0mNullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+[0;32m    code: [0mnull
+
+
+
+Summary:
+
+ec.edu.espol.workshops.second.CustomRecordFormatter : 5
+ec.edu.espol.workshops.second.CarInsurance : 7
+ec.edu.espol.workshops.second.Main : 10
+ec.edu.espol.workshops.second.PremiumCalculation : 7
+ec.edu.espol.workshops.second.Policies : 3
+[1;33m*[0m warnings: [1;37m80[0m
