@@ -28,21 +28,16 @@ public class Main {
 		
 		logger.info("Ingrese estado del matrimonio true -> para casado, false -> para no casado: ");
 		Boolean marital_status = sc.nextBoolean();
-		
 		CarInsurance car = new CarInsurance();
 		car.setAge(edad);
 		car.setMarital_status(marital_status);
 		car.setSex(sex);
 		car.setLicense(licencia);
-		
 		PremiumCalculation premiumCalc = new PremiumCalculation();
 		Policies policies = new Policies();
-//		boolean estado = policies.validCustomer(car);
-		
 		Integer calculoMonto = premiumCalc.calcularPremio(car);
 
 		logger.info(Integer.toString(policies.validCustomer(car, calculoMonto)));
 
 	}
-
 }
