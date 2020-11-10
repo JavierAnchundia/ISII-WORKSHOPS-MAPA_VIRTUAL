@@ -5,11 +5,7 @@ public class CarInsurance {
 	protected String sex;
 	protected Boolean marital_status;
 	protected Boolean license;
-<<<<<<< HEAD
-	final static int BASE_PREMIUN = 500;
-=======
 	static final int basePremium = 500;
->>>>>>> f39891bc556081655e3429e1cdb560a7dfa5cf50
 	
 	public Boolean getLicense(){ return license; }
 
