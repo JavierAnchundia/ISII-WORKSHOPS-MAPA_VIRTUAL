@@ -20,8 +20,14 @@ public class Main {
 		logger.info("Ingrese el sexo M -> Masculino, F -> Femenino: ");
 		String sex = sc.nextLine();
 		
-		logger.info("Ingrese la edad: ");
-		int edad = sc.nextInt();
+		String edadTexto = "";
+		boolean validar = false;
+		while(!validar) {
+			logger.info("Ingrese la edad: ");
+			edadTexto= sc.nextLine();
+			validar = validarNumero(edadTexto);
+		}
+		int edad = Integer.parseInt(edadTexto);
 		
 		logger.info("Tiene licencia ? si es si responda true, caso contrario false: ");
 		Boolean licencia = sc.nextBoolean();
@@ -39,5 +45,13 @@ public class Main {
 
 		logger.info(Integer.toString(policies.validCustomer(car, calculoMonto)));
 
+	}
+	/***
+	 * Funcion para validar que la edad sea tipo numero
+	 * @param numero entrada a verificar
+	 * @return returna true si el valor ingresado es digito y false si tiene otro caracter
+	 */
+	public static boolean validarNumero(String numero) {
+		return numero.matches("[0-9]*");
 	}
 }
