@@ -44,7 +44,7 @@ configurations {
  				classpath = configurations.cucumberRuntime + 
  				sourceSets.main.output + sourceSets.test.output            
  				args = ['--plugin', 'pretty','--monochrome','--plugin', 
- 				'html:build/reports/cucumber-report.html','--glue', 'Package_Path, 
- 				'src/test/resources/ec/edu/espol/workshops/second/']        
+ 				'html:build/reports/cucumber-report.html','--glue', 'ec.edu.espol.workshops.second', 
+ 				'src/test/resources']        
  				}    
  				}} 
