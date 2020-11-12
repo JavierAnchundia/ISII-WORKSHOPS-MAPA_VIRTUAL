@@ -44,7 +44,7 @@ public class Main {
 		Integer calculoMonto = premiumCalc.calcularPremio(car);
 
 		logger.info(Integer.toString(policies.validCustomer(car, calculoMonto)));
-
+		sc.close();
 	}
 	/***
 	 * Funcion para validar que la edad sea tipo numero
