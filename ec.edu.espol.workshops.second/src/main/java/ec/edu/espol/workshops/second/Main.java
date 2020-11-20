@@ -7,9 +7,9 @@ public class Main {
 
     
 	public static void main(String[] args) { 
-		
+		Boolean marital_status=false, licencia=false;
 		 final Logger logger = Logger.getLogger(Main.class.getName());
-
+		 int edad = 0;
 		  CustomRecordFormatter formatter = new CustomRecordFormatter();
 	      ConsoleHandler consoleHandler = new ConsoleHandler();
 	      consoleHandler.setFormatter(formatter);
@@ -20,20 +20,29 @@ public class Main {
 		logger.info("Ingrese el sexo M -> Masculino, F -> Femenino: ");
 		String sex = sc.nextLine();
 		
-		String edadTexto = "";
-		boolean validar = false;
-		while(!validar) {
+		try {
 			logger.info("Ingrese la edad: ");
-			edadTexto= sc.nextLine();
-			validar = validarNumero(edadTexto);
+			edad= sc.nextInt();
+		}catch(Exception e) {
+			logger.info(Integer.toString(-1));
+			System.exit(0);
 		}
-		int edad = Integer.parseInt(edadTexto);
+		try {
+			logger.info("Tiene licencia ? si es si responda true, caso contrario false: ");
+			licencia = sc.nextBoolean();
+		}catch(Exception e) {
+			logger.info(Integer.toString(-1));
+			System.exit(0);
+		}
 		
-		logger.info("Tiene licencia ? si es si responda true, caso contrario false: ");
-		Boolean licencia = sc.nextBoolean();
+		try {
+			logger.info("Ingrese estado del matrimonio true -> para casado, false -> para no casado: ");
+			marital_status = sc.nextBoolean();
+		}catch(Exception e) {
+			logger.info(Integer.toString(-1));
+			System.exit(0);
+		}
 		
-		logger.info("Ingrese estado del matrimonio true -> para casado, false -> para no casado: ");
-		Boolean marital_status = sc.nextBoolean();
 		CarInsurance car = new CarInsurance();
 		car.setAge(edad);
 		car.setMarital_status(marital_status);
