@@ -50,8 +50,11 @@ public class Main {
 		car.setLicense(licencia);
 		PremiumCalculation premiumCalc = new PremiumCalculation();
 		Policies policies = new Policies();
+		if(!car.getSex().equals("M") || !car.getSex().equals("F")) {
+			logger.info(Integer.toString(-1));
+			System.exit(0);
+		}
 		Integer calculoMonto = premiumCalc.calcularPremio(car);
-
 		logger.info(Integer.toString(policies.validCustomer(car, calculoMonto)));
 		sc.close();
 	}
