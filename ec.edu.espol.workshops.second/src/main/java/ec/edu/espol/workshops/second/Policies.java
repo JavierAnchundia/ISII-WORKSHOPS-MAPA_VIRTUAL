@@ -7,7 +7,7 @@ public class Policies {
 	
 	
 	public int validCustomer(CarInsurance customer, Integer valor){
-		if(customer.getAge() >80 || !customer.getLicense() || valor == null){ return -1; } else{
+		if(customer.getAge() >80 || !customer.getLicense() || valor == null || customer.getAge()<= 17){ return -1; } else{
 			return valor;
 		}
 	}
