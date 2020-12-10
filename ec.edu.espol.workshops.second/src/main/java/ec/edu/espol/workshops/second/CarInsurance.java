@@ -5,7 +5,7 @@ public class CarInsurance {
 	protected String sex;
 	protected Boolean marital_status;
 	protected Boolean license;
-	static final int basePremium = 500;
+	static final int basePremium = 600;
 	
 	public Boolean getLicense(){ return license; }
 
