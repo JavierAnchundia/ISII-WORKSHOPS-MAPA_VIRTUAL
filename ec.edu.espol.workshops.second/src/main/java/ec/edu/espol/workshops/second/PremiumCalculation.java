@@ -5,7 +5,7 @@ public class PremiumCalculation {
 	}
 	public Integer calcularPremio(CarInsurance customer){
 		Integer montoPagar = customer.getbasePremium();
-		if(customer.getSex().equals("M") && !customer.getMarital_status() && customer.getAge()<25) {
+		if(customer.getSex().equals("M") && !customer.getMarital_status() && customer.getAge()<=25) {
 			return montoPagar + 1500;
 		}else if(customer.getSex().equals("F") || customer.getMarital_status()){
 			montoPagar = montoPagar - 200;
