@@ -14,7 +14,7 @@ public class PremiumCalculation {
 		if(customer.getAge() >= 45 && customer.getAge() <= 65){
 			montoPagar = montoPagar - 100;
 		}
-		if(customer.getAge() > 25 && customer.getAge() < 45 ){
+		if(customer.getSex().equals("M") && (customer.getAge() > 25 && customer.getAge() < 45) ){
 			montoPagar = montoPagar - 100;
 		}
 //		else{
